@@ -31,9 +31,8 @@ The app allows users to select session options, apply discounts or urgent bookin
 
 ## Screenshots
 
-Add screenshots here.
+## Screenshots
 
-```markdown
 ![Start screen](screenshots/_msof0.png)
 ![Some input mistake](screenshots/_msof1.png)
 ![Order saved](screenshots/_msof2.png)
