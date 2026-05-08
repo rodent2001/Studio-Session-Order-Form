@@ -1,7 +1,5 @@
 # Studio Session Order Form
 
-# Studio Session Order Form
-
 ## Overview
 Studio Session Order Form is a small educational WPF application that simulates creating a music studio session.
 
