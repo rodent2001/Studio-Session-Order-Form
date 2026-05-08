@@ -35,5 +35,5 @@ Add screenshots here.
 
 ```markdown
 ![Start screen](screenshots/msof0.png)
-![Some input mistake](screenshots/msof1.png
-![Order saved](screenshots/msof2.png
+![Some input mistake](screenshots/msof1.png)
+![Order saved](screenshots/msof2.png)
