@@ -1,8 +1,8 @@
-# Studio Session Calculator
+# Studio Session Order Form
 
 ## Overview
 
-**Studio Session Calculator** is a small educational WPF application for calculating the cost of a music studio session.
+**Studio Session Order Form** is a small educational WPF application that simulates a creating of a music studio session.
 
 The app allows users to select session options, apply discounts or urgent booking fees, and calculate the final session price.
 
@@ -25,7 +25,7 @@ The app allows users to select session options, apply discounts or urgent bookin
 
 ## How to Run
 
-1. Open the solution in **Visual Studio 2026**.
+1. Open the project in **Visual Studio 2026**.
 2. Build the project.
 3. Run the application.
 
@@ -34,4 +34,6 @@ The app allows users to select session options, apply discounts or urgent bookin
 Add screenshots here.
 
 ```markdown
-![Main window](screenshots/main-window.png)
+![Start screen](screenshots/msof0.png)
+![Some input mistake](screenshots/msof1.png
+![Order saved](screenshots/msof2.png
