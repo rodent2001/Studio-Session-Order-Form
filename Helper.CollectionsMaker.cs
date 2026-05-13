@@ -1,18 +1,7 @@
-﻿namespace StudioSessionCalc;
+﻿namespace StudioSessionOrderForm;
 
 public static class CollectionsMaker
 {
-    public static StudioProducts MakeStudioProducts()
-    {
-        var products = new StudioProducts();
-        products.Add(new Product("Rehearsal", 7.5m, 0, 10));
-        products.Add(new Product("Voice recording", 20m, 0, 15));
-        products.Add(new Product("Drums recording", 32m, 0, 30));
-        products.Add(new Product("Mixing", 50m, 0, 50));
-
-        return products;
-    }
-
     public static StudioCustomers MakeStudioCustomers()
     {
         var customers = new StudioCustomers();
@@ -22,6 +11,17 @@ public static class CollectionsMaker
         customers.Add(new Customer() { CustomerName = "Mariah Carey" });
 
         return customers;
+    }
+
+    public static StudioProducts MakeStudioProducts()
+    {
+        var products = new StudioProducts();
+        products.Add(new Product("Rehearsal", 7.5m, 0, 10));
+        products.Add(new Product("Voice recording", 20m, 0, 15));
+        products.Add(new Product("Drums recording", 32m, 0, 30));
+        products.Add(new Product("Mixing", 50m, 0, 50));
+
+        return products;
     }
 
     public static StudioSessionDurations MakeStudioSessionDurations()

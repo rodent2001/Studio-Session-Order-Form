@@ -1,6 +1,6 @@
 ﻿using System.Collections.ObjectModel;
 
-namespace StudioSessionCalc;
+namespace StudioSessionOrderForm;
 
 public class StudioProducts : ObservableCollection<Product> { }
 

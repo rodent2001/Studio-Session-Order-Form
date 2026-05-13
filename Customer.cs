@@ -1,4 +1,4 @@
-﻿namespace StudioSessionCalc;
+﻿namespace StudioSessionOrderForm;
 
 public class Customer
 {

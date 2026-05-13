@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace StudioSessionCalc;
+namespace StudioSessionOrderForm;
 
 public class Product : INotifyPropertyChanged
 {

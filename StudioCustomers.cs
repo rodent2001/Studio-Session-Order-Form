@@ -1,5 +1,5 @@
 ﻿using System.Collections.ObjectModel;
 
-namespace StudioSessionCalc;
+namespace StudioSessionOrderForm;
 
 public class StudioCustomers : ObservableCollection<Customer> { }

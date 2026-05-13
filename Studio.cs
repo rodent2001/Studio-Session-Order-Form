@@ -1,4 +1,4 @@
-﻿namespace StudioSessionCalc;
+﻿namespace StudioSessionOrderForm;
 
 public class Studio
 {
@@ -16,4 +16,3 @@ public class Studio
         StudioSessionDurations = CollectionsMaker.MakeStudioSessionDurations();
     }
 }
-
